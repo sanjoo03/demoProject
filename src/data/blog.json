@@ -1,0 +1,67 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "blogCategory": "Cart",
+            "blogTitle" : "Bullocky",
+            "postedOn": "July 21, 2016",
+            "author": "Sanjoy Sau",
+            "blogImage": "cow-cart.jpg",
+            "blogText": "A bullock cart or ox cart (sometimes called a bullock carriage when carrying people in particular) is a two-wheeled or four-wheeled vehicle pulled by oxen. It is a means of transportation used since ancient times in many parts of the world. They are still used today where modern vehicles are too expensive or the infrastructure favor them. Used especially for carrying goods, the bullock cart is pulled by one or several oxen. The cart is attached to an ox team by a special chain attached to yokes, but a rope may also be used for one or two animals. The driver and any other passengers sit on the front of the cart, while load is placed in the back. Traditionally, the cargo was usually agrarian goods and lumber."
+        },
+        {
+            "id" : 2,
+            "blogCategory": "Temple",
+            "blogTitle": "Buddhist Pagoda at Eden Gardens",
+            "postedOn": "Mar 03, 2017",
+            "author": "Moumita Mishra",
+            "blogImage": "eden-temple.jpg",
+            "blogText": "It was once the most exotic and colourful sight of Calcutta. Now, the Burmese pagoda at the Eden Gardens is a shabby, crumbling heap. Intricate wood carvings are liberally strewn around the base, and its soaring, multi-tiered tower — once a brilliant red-and-gold — is overgrown with parasites, creepers and weeds that eat into the roof and run riot around the structure as well. Caged for months inside bamboo scaffolding, this charming monument is a victim of neglect, a common enough malaise in a city sadly unaware of the value and the worth of its built heritage."
+        },
+        {
+            "id": 3,
+            "blogCategory": "Cable Stayed Bridge",
+            "blogTitle": "Beauty Lies within special at Vidyasagar Setu",
+            "postedOn": "Apr 02, 2017",
+            "author": "Tanushree Das",
+            "blogImage": "bridge.jpg",
+            "blogText": "It is the longest cable–stayed bridge in India.The total width of the bridge is 35 metres, with 3 lanes in each direction and a 1.2 metres wide footpath on each side. Second Hoogly Bridge also known as the Vidyasagar Setu (Bridge) on the Hoogly river joining Kolkata with Howrah is a wonderful engineering marvel.After the Howrah Bridge this is a major connection between kolkata...."
+        },
+        {
+            "id": 4,
+            "blogCategory": "Camels",
+            "blogTitle": "Ships of the desert",
+            "postedOn": "Jan 02, 2018",
+            "author": "Tanushree Das",
+            "blogImage": "camels.jpg",
+            "blogText": "Camels were domesticated more than 3,000 years ago, and to this day, humans depend on them for transport across arid environments. They can easily carry an extra 200 pounds (90 kilograms) while walking 20 miles (32 kilometers) a day in the harsh desert. Camels can travel as fast as horses but can also endure legendary periods of time without food or water. Humans have used camels for their wool, milk, meat, leather, and even dung, which can be used for fuel. The dromedary camel, also known as the Arabian camel, exists today only as a domesticated animal. About 90 percent of the world’s camels are dromedaries. There are two types of Bactrian camels: wild and domesticated. Wild Bactrian camels are much trimmer, with smaller humps and less hair, than domesticated Bactrian camels."
+        },
+        {
+            "id": 5,
+            "blogCategory": "Branch",
+            "blogTitle": "Beach: for every season, for every reason",
+            "postedOn": "Mar 21, 2019",
+            "author": "Sanjoy sau",
+            "blogImage": "dry-branch.jpg",
+            "blogText": "From scenic beaches offering an escape from the busy city life, to those action-packed with thrilling water sports, parties and adventure; there are plenty of options if you are looking for a beach holiday."
+        },
+        {
+            "id": 6,
+            "blogCategory": "Tree",
+            "blogTitle": "Autumn landscape covered with fog, over the meadows between hills and forests",
+            "postedOn": "Feb 21, 2018",
+            "author": "Subham Maity",
+            "blogImage": "hills-tree.jpg",
+            "blogText": "Hill fog is a term denoting low cloud covering high ground. Hill fog does not necessarily require upslope motion, as in the case of the upslope type of hill fog. It can simply occur when the cloud base is lower than the tops of the hills. When viewed from below, it will be seen as Stratus cloud."
+        },
+        {
+            "id": 7,
+            "blogCategory": "Squirrel",
+            "blogTitle": "Members of the family Sciuridae",
+            "postedOn": "Feb 21, 2018",
+            "author": "Tanushree Das",
+            "blogImage": "squirrel.jpg",
+            "blogText": "Squirrels get lots of attention from humans, but not always much appreciation. We tend to dwell on the stolen birdseed or the occupied attics, yet squirrels have a long, mostly harmless — and often entertaining — history of living in our midst. This softer side deserves attention, too, especially since squirrels are among the most visible wildlife in many big cities and suburbs. They're widespread and widely liked, and despite a knack for mischief, rarely inspire the same scorn as other, more garbage-prone city animals like rats, pigeons or opossums. They're like furry little forest ambassadors, using parks and backyards as their urban embassies. That's the idea behind Squirrel Appreciation Day, founded in 2001 by North Carolina wildlife rehabilitator Christy McKeown. It's held Jan. 21 every year, but much like Elephant Appreciation Day, Penguin Awareness Day and similar informal animal holidays, it's pretty decentralized. As McKeown explains on her website, while there are no official events scheduled, you can help celebrate by putting out extra food for the squirrels."
+        }        
+    ]
+}
